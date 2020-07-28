@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-I love :sunny:, :lemon:, :sloth:.
+I love :sunny:, :lemon:, :sloth:, :sloth: .
